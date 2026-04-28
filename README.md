@@ -9,6 +9,12 @@ ISS Tracker kombiniert Live-Telemetrie, eine interaktive 3D-Erde, Ground-Track-E
 ![Three.js](https://img.shields.io/badge/Three.js-0.176-111111?style=for-the-badge&logo=three.js&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-live_ready-75ffc7?style=for-the-badge)
 
+## 🚀 Live Demo
+
+Die App ist live auf Vercel erreichbar:
+
+👉 **[iss-tracker-gilt.vercel.app](https://iss-tracker-gilt.vercel.app)**
+
 ## ✨ Highlights
 
 - 🌍 **Interaktive 3D-Erde** mit Sternenfeld, Atmosphärenglanz, Wolkenlayer und ISS-Marker
