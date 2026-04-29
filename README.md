@@ -9,9 +9,7 @@ ISS Tracker combines live telemetry, an interactive 3D Earth, ground-track detec
 ![Three.js](https://img.shields.io/badge/Three.js-0.176-111111?style=for-the-badge&logo=three.js&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-live_ready-75ffc7?style=for-the-badge)
 
-## 🚀 Live Demo
 
-👉 **[iss-tracker-gilt.vercel.app](https://iss-tracker-gilt.vercel.app)**
 
 ## ✨ Highlights
 
